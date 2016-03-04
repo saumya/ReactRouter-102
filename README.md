@@ -12,13 +12,12 @@ Initialising the application
  - change the 'main' from 'index.js' to 'app.js'
  - load the dependencies : flux,react,react-dom,react-router,underscore ( npm install react --save )
  - load the dev dependencies : babel-cli,babel-preset-es2015,babel-preset-react,css-loader,style-loader,webpack ( npm install webpack --save-dev )
- - test end
 
 
 Uses
- - Babel
- - Webpack
- - react-router
+ - [Babel][2]
+ - [Webpack][3]
+ - [react-router][1]
 
 Installing [react-router][1] is as below
  npm install react-router --save
@@ -35,3 +34,6 @@ The first one is necessary as with version 2, [react-router][1] does not create 
 
 
 [1]: https://github.com/rackt/react-router
+[2]: https://babeljs.io/
+[3]: https://webpack.github.io/
+
