@@ -1,5 +1,6 @@
-React with routes
-====================
+React with react-router-V2 
+==============================
+
 Initialising the application
  - npm init
  - install the respective packages
