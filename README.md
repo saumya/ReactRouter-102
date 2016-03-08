@@ -1,6 +1,10 @@
 React with react-router-V2
 ==============================
-React : 0.14.7 
+
+React : 15.0.0 RC1 ( npm install --save react@15.0.0-rc.1 react-dom@15.0.0-rc.1 )
+
+Past
+React : 0.14.7
 
 Initialising the application
  - npm init
