@@ -1,5 +1,6 @@
-React with react-router-V2 
+React with react-router-V2
 ==============================
+React : 0.14.7 
 
 Initialising the application
  - npm init
@@ -36,4 +37,3 @@ The first one is necessary as with version 2, [react-router][1] does not create 
 [1]: https://github.com/rackt/react-router
 [2]: https://babeljs.io/
 [3]: https://webpack.github.io/
-
